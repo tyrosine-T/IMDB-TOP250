@@ -6,14 +6,14 @@
 | 田一然 | [@tyrosine-T](https://github.com/tyrosine-T) | 数据库工程师   | 数据抓取、数据库设计、SQL优化 |
 | 刘子墨 | [@newzipp](https://github.com/newzipp)       | 前端开发工程师 | JSP页面开发、UI交互实现       |
 | 支睿康 | [@kakia-kk](https://github.com/kakia-kk)     | 后端开发工程师 | Servlet开发、API接口设计      |
-| 尹艺霏 | [@yin-yifei](https://github.com/yin-yifei)   | 技术文档工程师 | 系统文档编写、模块详细说明    |
+| 尹艺霏 | [@-](https://github.com/-)   | 技术文档工程师 | 系统文档编写、模块详细说明    |
 
 ## 贡献详情 | Contribution Details
 
 ### 田一然
 - 编写爬虫抓取数据
+- 清洗数据并构造规范化sql语句
 - 设计并实现MySQL数据库结构
-- 编写数据库连接池工具类
 
 ### 刘子墨
 - 开发JSP视图页面
