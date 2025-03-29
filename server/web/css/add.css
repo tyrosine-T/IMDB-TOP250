@@ -1,0 +1,64 @@
+/* add.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: navajowhite;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.add-table {
+    width: 400px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: rgba(128, 128, 128, 0.5);
+    border: 1px solid #444444;
+}
+
+.add-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.add-table input[type="text"],
+.add-table input[type="location"],
+.add-table input[type="description"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
+.add-table input[type="submit"],
+.add-table input[type="reset"] {
+    padding: 5px 10px;
+    background-color: #4C8F50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.add-table input[type="submit"]:hover,
+.add-table input[type="reset"]:hover {
+    background-color: #4c6049;
+}
+
+.bottom-section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bottom-section a {
+    text-decoration: none;
+    color: #c3a074;
+}
+
+.bottom-section a:hover {
+    text-decoration: underline;
+}
