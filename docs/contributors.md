@@ -18,7 +18,7 @@
 ### 刘子墨
 - 开发JSP视图页面
 - 实现前端表单验证逻辑
-- 设计CSS布局
+- 设计CSS美化布局
 
 ### 支睿康
 - 编写`ActorServlet`/`MovieServlet`等核心控制器
