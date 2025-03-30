@@ -21,7 +21,7 @@
 - 设计CSS美化布局
 
 ### 支睿康
-- 编写`ActorServlet`/`MovieServlet`等核心控制器
+- 编写`ActorServlet`/`MovieServlet`等核心控制器，实现前端与数据库连接
 - 系统测试
 - 系统集成与调试
 
